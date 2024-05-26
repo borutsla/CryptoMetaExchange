@@ -1,0 +1,6 @@
+@CryptoMetaExchange.WebApi_HostAddress = http://localhost:5079
+
+GET {{CryptoMetaExchange.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
